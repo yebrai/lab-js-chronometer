@@ -24,7 +24,7 @@ class Chronometer {
   }
 
   stop() {
-    // ... your code goes here
+
   }
 
   reset() {
